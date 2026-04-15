@@ -8,8 +8,8 @@ You can also find the latest version available on our website at [adapt.com/ai-f
 
 Download the latest report and use it as context for your AI agent, and star ⭐️ this repo to follow future updates!
 
-- [Read the latest version on our website](https://adapt.com/ai-for-startup-leaders)
-- [Read the latest version in GitHub](latest.md)
+- [Read the latest edition on our website](https://adapt.com/ai-for-startup-leaders)
+- [Read the latest edition in GitHub](latest.md)
 - [See what changed from the last to latest edition](https://github.com/adaptcom/ai-for-startup-leaders/pull/2/changes#diff-f8107fb4e3b132612e885b249d0fc5228d02b5dd859f418195b586f73913ec34)
 - [View past editions](</past editions>)
 
